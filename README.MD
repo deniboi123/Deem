@@ -11,4 +11,3 @@ To get started, open a terminal and type ``git clone https://github.com/deniboi1
 
 You can fork the project and do a pull request or send a issue to me.
 
-Bugs get reported in the issues tab.
